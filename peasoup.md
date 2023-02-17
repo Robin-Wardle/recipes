@@ -3,3 +3,4 @@
 - spring onions
 - potato
 # Instructions
+- peel potato
