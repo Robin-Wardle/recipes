@@ -4,3 +4,4 @@
 - potato
 # Instructions
 - peel potato
+- chop onions
